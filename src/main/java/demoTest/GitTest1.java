@@ -6,8 +6,8 @@ public class GitTest1 {
 		
 		System.out.println("git test");
 		System.out.println("git test1");
-		System.out.println("git test2");
-		System.out.println("git test3");
+		System.out.println("git test2222");
+		System.out.println("git test3333333");
 	}
 
 }
